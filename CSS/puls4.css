@@ -1,0 +1,37 @@
+body {
+  background: #e8e8e8;
+  color: #444;
+  front-family: Arial;
+  front-size: 16px;
+}
+header {
+  background: #444;
+  color: #fff;
+  padding: 0.5em;
+}
+header .logo,
+header border-right 1px solid azul {
+  width: 60px;
+}
+header .logo img,
+header border-right 1px solid azul img {
+  width: 52px;
+}
+.titular {
+  margin: 0 80px 0 70px;
+}
+.titular .titulo {
+  font-size: 18px;
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+}
+nav {
+  background: #22bce0;
+}
+.left {
+  float: left;
+}
+.left .right {
+  float: right;
+}
