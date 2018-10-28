@@ -25,7 +25,7 @@ header .titular .titulo {
   margin: 0;
   padding: 0;
 }
-header .usuario .avatar img {
+.usuario .avatar img {
   width: 50px;
   border-radius: 50%;
 }
